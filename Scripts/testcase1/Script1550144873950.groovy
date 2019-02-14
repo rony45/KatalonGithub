@@ -15,5 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://detik.com')
+WebUI.navigateToUrl('https://foodia.com')
 
