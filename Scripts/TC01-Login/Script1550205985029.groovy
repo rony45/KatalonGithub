@@ -17,3 +17,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://foodia.com')
 
+WebUI.click(findTestObject('Login/Masuk0rDaftar'))
+
+WebUI.setText(findTestObject('Login/email'), 'foodia1@mailinator.com')
+
+WebUI.setText(findTestObject('Login/password'), 'password')
+
