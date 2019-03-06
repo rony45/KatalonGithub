@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="testsuitegoogle" time="7" tests="1" failures="0" errors="0">
+   <testsuite name="testsuitegoogle" tests="1" failures="0" errors="0" time="7" timestamp="2019-03-06 20:05:02" hostname="syahroni.syahroni - Syahroni-E460.ad.metraplasa.co.id" id="Test Suites/testsuitegoogle">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\syahroni.syahroni\\Music\\KatalonGithub\\Reports\\testsuitegoogle\\20190306_200443"/>
+         <property name="logFiles" value="C:\\Users\\syahroni.syahroni\\Music\\KatalonGithub\\Reports\\testsuitegoogle\\20190306_200443\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="syahroni.syahroni - Syahroni-E460.ad.metraplasa.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.1.1"/>
+         <property name="browser" value="Chrome 72.0.3626.119"/>
+         <property name="hostAddress" value="10.10.24.53"/>
+         <property name="sessionId" value="38fab7dfea650a55e4e1a82981c5c66d"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/openbrowsergoogle" classname="Test Cases/openbrowsergoogle" status="PASSED">
+         <system-out><![CDATA[2019-03-06 20:05:02 - [TEST_CASE][PASSED] - Test Cases/openbrowsergoogle: Test Cases/openbrowsergoogle
+
+2019-03-06 20:05:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-03-06 20:05:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-03-06 20:05:03 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-03-06 20:05:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-03-06 20:05:07 - [TEST_STEP][PASSED] - navigateToUrl("https://google.com"): Navigate to 'https://google.com' successfully
+
+2019-03-06 20:05:08 - [MESSAGE][PASSED] - Navigate to 'https://google.com' successfully
+
+2019-03-06 20:05:08 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-03-06 20:05:09 - [MESSAGE][PASSED] - Current window maximized]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-03-06 20:05:02 - [TEST_SUITE][PASSED] - testsuitegoogle: Test Cases/openbrowsergoogle]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
