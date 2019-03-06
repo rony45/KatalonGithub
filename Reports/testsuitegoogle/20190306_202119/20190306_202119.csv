@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+testsuitegoogle,Chrome 72.0.3626.119,,2019-03-06 20:21:46,2019-03-06 20:21:55,9.262s,PASSED
+,,,,,,
+Test Cases/openbrowsergoogle,Chrome 72.0.3626.119,,2019-03-06 20:21:46,2019-03-06 20:21:54,8.027s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.119,,2019-03-06 20:21:47,2019-03-06 20:21:52,5.278s,PASSED
+"navigateToUrl(""https://google.com"")",Chrome 72.0.3626.119,,2019-03-06 20:21:52,2019-03-06 20:21:53,0.935s,PASSED
+maximizeWindow(),Chrome 72.0.3626.119,,2019-03-06 20:21:53,2019-03-06 20:21:54,1.214s,PASSED

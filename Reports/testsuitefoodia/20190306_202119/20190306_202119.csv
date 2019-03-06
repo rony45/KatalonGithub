@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+testsuitefoodia,Chrome 72.0.3626.119,,2019-03-06 20:21:24,2019-03-06 20:21:43,18.820s,PASSED
+,,,,,,
+Test Cases/openbrowserFoodia,Chrome 72.0.3626.119,,2019-03-06 20:21:24,2019-03-06 20:21:42,17.371s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.119,,2019-03-06 20:21:25,2019-03-06 20:21:32,6.384s,PASSED
+"navigateToUrl(""https://foodia.com"")",Chrome 72.0.3626.119,,2019-03-06 20:21:32,2019-03-06 20:21:40,8.331s,PASSED
+maximizeWindow(),Chrome 72.0.3626.119,,2019-03-06 20:21:40,2019-03-06 20:21:42,1.587s,PASSED
