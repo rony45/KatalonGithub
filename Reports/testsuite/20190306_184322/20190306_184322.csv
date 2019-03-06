@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+testsuite,Chrome 72.0.3626.119,,2019-03-06 18:43:26,2019-03-06 18:43:44,18.033s,PASSED
+,,,,,,
+Test Cases/TC01-Login,Chrome 72.0.3626.119,,2019-03-06 18:43:27,2019-03-06 18:43:43,16.370s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.119,,2019-03-06 18:43:28,2019-03-06 18:43:33,5.794s,PASSED
+"navigateToUrl(""https://foodia.com"")",Chrome 72.0.3626.119,,2019-03-06 18:43:33,2019-03-06 18:43:40,7.043s,PASSED
+"click(findTestObject(""Login/Masuk0rDaftar""))",Chrome 72.0.3626.119,,2019-03-06 18:43:40,2019-03-06 18:43:41,0.393s,PASSED
+"setText(findTestObject(""Login/email""), ""foodia1@mailinator.com"")",Chrome 72.0.3626.119,,2019-03-06 18:43:41,2019-03-06 18:43:43,1.988s,PASSED
+"setText(findTestObject(""Login/password""), ""password"")",Chrome 72.0.3626.119,,2019-03-06 18:43:43,2019-03-06 18:43:43,0.225s,PASSED
